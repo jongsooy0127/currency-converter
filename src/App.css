@@ -1,0 +1,27 @@
+.general {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: gray;
+}
+
+.application {
+  background-color: snow;
+  padding: 4rem 6rem 16rem 6rem;
+  border-radius: 15px;
+}
+
+.data {
+  display: flex;
+  flex-direction: column;
+}
+
+.label {
+  margin-top: 1rem;
+}
+
+.option {
+  height: 5rem;
+}
